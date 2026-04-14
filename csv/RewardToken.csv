@@ -1,0 +1,2 @@
+﻿Transaction Hash,Status,Method,Blockno,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (USD),Txn Fee
+"0x03353b85d511f8e2ee7e6b10e7a33501207ceeb88fae0cab68e9a7ddd4de7ba5","Success","Mint","10656361","2026-04-14 06:52:12","0xe233dbe7df567287eb3bac0e69d83a972208e730","","0x3AE8fcc801E7C5255e65616fe001baF2A0673db7","","0 ETH","$0.00","0.00010497"
