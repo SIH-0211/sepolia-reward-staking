@@ -80,8 +80,9 @@
 ## 3. 과제 진행 로그 (Assignment Log)
 
 ### 컨트랙트 배포 내역 (Contract Deployments - Sepolia)
-   - csv 폴더에 Etherscan에서 확인한 트랜잭션 내역을 Deployed contract 단위로 csv 파일로 저장합니다.
-   - 과제 검증 과정에서 발생한 트랜잭션 내역은 아래와 같습니다.
+- csv 폴더에 Etherscan에서 확인한 트랜잭션 내역을 Deployed contract 단위로 csv 파일로 저장합니다.
+- 과제 검증 과정에서 발생한 트랜잭션 내역은 아래와 같습니다.
+
 | 종류 | 컨트랙트 주소 (Contract Address) |
 | :--- | :--- |
 | **Staking Token (STK)** | `0xe46fc95d9E16d5D08e9a05d828E1D4026Af780b5` |
